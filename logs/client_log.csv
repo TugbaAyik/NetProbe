@@ -1,0 +1,10 @@
+Metric,Value
+Sent,5
+ACK,0
+Timeout,5
+Retransmission,5
+Time,10.06705093383789
+Throughput,127.14746437783462
+Goodput,0.0
+PacketLossRate,1.0
+AvgRTT,0
